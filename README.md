@@ -1,2 +1,4 @@
-# COM108-NhapMonLapTrinh
-Tất cả cả bài lab và asm của môn COM108
+# COM108-NhapMonLapTrinh-FPOLY
+Tất cả cả bài Lab và ASM của môn COM108
+
+`NGUYỄN HOÀNG DUY - PS18293`
